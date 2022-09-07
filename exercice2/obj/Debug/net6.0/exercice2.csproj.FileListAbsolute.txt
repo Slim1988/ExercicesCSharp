@@ -1,0 +1,15 @@
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\exercice2.csproj.AssemblyReference.cache
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\exercice2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\exercice2.AssemblyInfoInputs.cache
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\exercice2.AssemblyInfo.cs
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\exercice2.csproj.CoreCompileInputs.cache
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\bin\Debug\net6.0\exercice2.exe
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\bin\Debug\net6.0\exercice2.deps.json
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\bin\Debug\net6.0\exercice2.runtimeconfig.json
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\bin\Debug\net6.0\exercice2.dll
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\bin\Debug\net6.0\exercice2.pdb
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\exercice2.dll
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\refint\exercice2.dll
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\exercice2.pdb
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\exercice2.genruntimeconfig.cache
+C:\Users\compaq\Desktop\Projet_cs\Exercices_cs\exercice2\obj\Debug\net6.0\ref\exercice2.dll
