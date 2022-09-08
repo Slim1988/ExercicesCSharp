@@ -6,10 +6,13 @@ using System.Threading.Tasks;
 
 namespace exercice2
 {
-    internal interface IStudent
+   public enum Matiere
     {
-        int GetAge2();
+        Math,
+        Anglais,
+        Physique,
+        Français,
+        Arab
 
     }
-   
 }

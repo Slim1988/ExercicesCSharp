@@ -6,15 +6,15 @@ using System.Threading.Tasks;
 
 namespace exercice2
 {
-    public static class GetAge
+    public static class Calcul
     {
         public static DateTime _dateofbirth;
-        public static int calcul(DateTime dateofbirth)
+        public static int GetAge(DateTime dateofbirth)
         {
-            int age = DateTime.Now.Year - dateofbirth.Year;
-
-                return age;
             
+          int  age = DateTime.Now.Year - dateofbirth.Year;
+            return age;
+    
         }
     }
 }
